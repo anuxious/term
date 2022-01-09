@@ -14,9 +14,9 @@ export class Cat extends Component {
 
 	information = {
 		about:
-			"Aute voluptate qui eiusmod pariatur velit velit fugiat laborum irure veniam. Id labore proident mollit nostrud. Aliqua excepteur Lorem in duis.",
+			"Hi! I'm Anoushka, a sixteen year old high school student. I'm a full stack web developer with a passion for technology and Machine Learning.",
 		education:
-			"Quis ut voluptate irure est. Ex in velit nisi nostrud occaecat ipsum non quis ea. Ipsum deserunt est amet adipisicing sint nulla quis nostrud. Ullamco enim do incididunt amet elit qui sint excepteur sit irure elit reprehenderit qui excepteur. Laborum ea minim aliquip et laboris aliquip reprehenderit sunt cupidatat pariatur esse do. In sint magna laborum culpa officia cillum ex velit commodo. Laborum adipisicing laboris incididunt nulla aliquip.",
+			"I'm currently an eleventh grade student at Delhi Public School, R.K. Puram, affiliated with CBSE.",
 		projects: [
 			{
 				projectName: "p1",
@@ -32,12 +32,12 @@ export class Cat extends Component {
 		social: [
 			{
 				platform: "Github",
-				link: "https://github.com/shloksomani"
+				link: "https://github.com/anoushkabhattacharya"
 			},
 
 			{
-				platform: "Github",
-				link: "https://github.com/shloksomani"
+				platform: "Twitter",
+				link: "https://twitter.com/bhanoushka"
 			}
 		]
 	};
